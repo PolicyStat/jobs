@@ -21,3 +21,16 @@
 
 We can hire individuals for full time employment who reside in Indiana, New Jersey, New Mexico, Idaho, Michigan, Florida, or some parts of Canada.
 **If you reside in some other location, we can only pay you if you work under a company.**
+
+# Interview Process
+
+Depending on the position you are applying for,
+the interview process may be slightly different.
+Full details provided in the automated email sent out after you apply.
+
+0. You apply
+1. Application review
+2. Complete a work sample (no more than 60 minutes)
+3. Conversation with the team lead
+4. Complete a work sample project (no more than 3 hours)
+5. On-site (or remote) culture conversation with the team + face to face interviews.
