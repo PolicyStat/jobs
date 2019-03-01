@@ -14,8 +14,8 @@ As a critical member of our small product team, you'll assume several roles incl
 
 ## Technical Requirements
 
-- Demonstrated proficiency with Java and/or Groovy + Grails
-- Demonstrated proficiency with Java Swing
+- Demonstrated proficiency with Java and/or [Groovy](http://groovy-lang.org) + [Grails](https://grails.org)
+- Demonstrated proficiency with Java [Spring](https://spring.io)
 - Demonstrated understanding of Git, JavaScript, CSS, HTML5
 
 ## Cultural Requirements
