@@ -60,6 +60,8 @@ As a critical member of our small product team, you will help us to update Polic
 - Complete a work sample project (< 3 hours) in React.
 - Culture conversation with team members (on-site, if possible, otherwise remote video conference).
 
+[See more details](interview_process.md)
+
 ## Remote Locations
 
 We can hire individuals for full time employment who reside in Indiana, New Jersey, New Mexico, Idaho, Michigan, Florida, or some parts of Canada.
