@@ -8,3 +8,15 @@
 
 * [Front-End React Engineer](front_end_react_engineer.md)
 * [Java / Grails Software Engineer](java_grails_engineer.md)
+
+# About PolicyStat
+
+- Founded in 2006, acquired by [iContracts](http://www.icontracts.com/) in 2017
+- Technology stack: Python 2.7 (help us upgrade to Python 3), Django, AWS (RDS, EC2, S3), Ubuntu Linux, MySQL, GraphQL, React (work in progress)
+- Toolkit: Git, Vagrant, VirtualBox, Trello, [GitHub](https://github.com/policystat), Jenkins, continuous delivery / daily deploys (700+ in 2018), fast iterations
+- See our [Stack Overflow Company](https://stackoverflow.com/jobs/companies/policystat) page
+
+# Remote Locations
+
+We can hire individuals for full time employment who reside in Indiana, New Jersey, New Mexico, Idaho, Michigan, Florida, or some parts of Canada.
+**If you reside in some other location, we can only pay you if you work under a company.**
