@@ -7,7 +7,8 @@
 # Open Positions
 
 * [Front-End React Engineer](front_end_react_engineer.md)
-* [Java / Grails Software Engineer](java_grails_engineer.md)
+* [Python + Django Engineer](python_django_engineer.md)
+* [Java / Grails Engineer](java_grails_engineer.md)
 
 # About PolicyStat
 
