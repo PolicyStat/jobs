@@ -26,7 +26,7 @@ We can hire individuals for full time employment who reside in Indiana, New Jers
 
 Depending on the position you are applying for,
 the interview process may be slightly different.
-Full details provided in the automated email sent out after you apply.
+Full details will be provided in an email sent out after you apply.
 
 0. You apply
 1. Application review
