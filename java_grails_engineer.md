@@ -53,7 +53,14 @@ As a critical member of our small product team, you'll assume several roles incl
 
 ## Remote Locations
 
-We can hire individuals for full time employment who reside in Indiana, New Jersey, New Mexico, Idaho, Michigan, Florida, or some parts of Canada.
-**If you reside in some other location, we can only pay you if you work under a company.**
+We can hire individuals for full time employment who reside in
+Indiana, New Jersey, New Mexico, Idaho, Michigan, Florida, or some parts of Canada.
+**If you reside in some other location, we can only pay you through a
+company**.
+If you have not already created a company
+(one that is responsible for taxes and can legally receive payments),
+you will either need to create one,
+  or alternatively we can hire you through a service such as
+[Upwork](https://upwork.com).
 
 [Click here to apply (Google Form)](http://bit.ly/pstat-java-grails-hire-2019-apply-github)
