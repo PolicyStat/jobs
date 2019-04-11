@@ -1,10 +1,18 @@
 # Make An Impact On Healthcare
 
 [PolicyStat]: http://www.icontracts.com/policy-management/
+[Medical Study]: https://hub.jhu.edu/2016/05/03/medical-errors-third-leading-cause-of-death
+[Named one of Inc.com's best workplaces of 2017]: https://www.inc.com/profile/policystat
+[iContracts]: http://www.icontracts.com
+[GitHub]: https://github.com/policystat
+[Stack Overflow Company page]: https://stackoverflow.com/jobs/companies/policystat
+[work sample]: https://medium.com/policystat-product-development/why-all-jobs-interviews-should-include-doing-real-work-34b54d393939
+[Upwork]: https://upwork.com
+[Apply]: http://bit.ly/pstat-lead-designer-hire-2019-apply-github
 
-[PolicyStat's][PolicyStat] mission is to improve healthcare delivery through better processes. We help our clients make their policies and procedures easier to find, access, and manage. Hundreds of hospitals use our SaaS application to ensure that this critical information is correct, their staff can find it, and that it supports regulatory compliance.
+[PolicyStat]'s mission is to improve healthcare delivery through better processes. We help our clients make their policies and procedures easier to find, access, and manage. Hundreds of hospitals use our SaaS application to ensure that this critical information is correct, their staff can find it, and that it supports regulatory compliance.
 
-[More than 250,000 Americans die each year as a result of medical error](https://hub.jhu.edu/2016/05/03/medical-errors-third-leading-cause-of-death/). Many of these deaths could have been prevented with existing best practices for quality and patient safety. A hospital's best tool for standardizing and implementing these life-saving improvements are their written policies and procedures.
+[More than 250,000 Americans die each year as a result of medical error][Medical Study]. Many of these deaths could have been prevented with existing best practices for quality and patient safety. A hospital's best tool for standardizing and implementing these life-saving improvements are their written policies and procedures.
 
 # Lead UX/UI Designer
 
@@ -85,11 +93,11 @@ PolicyStat is a committed equal opportunity employer.
 
 # About PolicyStat
 
-- [Named one of Inc.com's best workplaces of 2017](https://www.inc.com/profile/policystat)
-- Founded in 2006, acquired by [iContracts](http://www.icontracts.com/) in 2017
+- [Named one of Inc.com's best workplaces of 2017]
+- Founded in 2006, acquired by [iContracts] in 2017
 - Technology stack: Python 2.7, Django, AWS (RDS, EC2, S3), Ubuntu Linux, MySQL, GraphQL, React (work in progress)
-- Toolkit: Sketch, Invision, Zeplin, Storybook, Adobe CC, Git, Vagrant, Trello, [GitHub](https://github.com/policystat)
-- See our [Stack Overflow Company page](https://stackoverflow.com/jobs/companies/policystat)
+- Toolkit: Sketch, Invision, Zeplin, Storybook, Adobe CC, Git, Vagrant, Trello, [GitHub]
+- See our [Stack Overflow Company page]
 
 # Apply
 
@@ -97,9 +105,7 @@ PolicyStat is a committed equal opportunity employer.
 
 - Application review
 - Phone or video conversation (15 minutes)
-- Complete a
-  [work sample](https://medium.com/policystat-product-development/why-all-jobs-interviews-should-include-doing-real-work-34b54d393939)
-  (1-3 hours) design project
+- Complete a [work sample] design project (1-3 hours)
 - Give a 15 minute presentation of your project,
   followed by 15-30 minutes of feedback and questions
 - Culture conversations with team members
@@ -115,7 +121,7 @@ company**.
 If you have not already created a company
 (one that is responsible for taxes and can legally receive payments),
 you will either need to create one,
-  or alternatively we can hire you through a service such as
-[Upwork](https://upwork.com).
+or alternatively we can hire you through a service such as
+[Upwork].
 
-[Click here to apply (Google Form)](http://bit.ly/pstat-lead-designer-hire-2019-apply-github)
+[Click here to apply (Google Form)][Apply]
