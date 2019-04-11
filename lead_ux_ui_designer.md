@@ -74,6 +74,7 @@ PolicyStat is a committed equal opportunity employer.
 
 - Market-based salary starting at $90k+ USD
 - Health (including telemedicine) with HSA, dental, vision, disability, and life insurance
+  (for W2 employees)
 - 10 paid holidays (for W2 employees)
 - PTO: 15 days each year to start; 20 days starting the calendar year of third anniversary
   (for W2 employees)
