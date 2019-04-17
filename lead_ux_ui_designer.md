@@ -1,4 +1,4 @@
-# Lead UX/UI Designer
+# Lead Product (UX/UI) Designer
 
 **REMOTE**
 
