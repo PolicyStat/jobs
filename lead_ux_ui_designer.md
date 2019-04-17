@@ -1,3 +1,13 @@
+[PolicyStat]: http://www.icontracts.com/policy-management/	
+[Medical Study]: https://hub.jhu.edu/2016/05/03/medical-errors-third-leading-cause-of-death	
+[Named one of Inc.com's best workplaces of 2017]: https://www.inc.com/profile/policystat	
+[iContracts]: http://www.icontracts.com	
+[GitHub]: https://github.com/policystat	
+[Stack Overflow Company page]: https://stackoverflow.com/jobs/companies/policystat	
+[work sample]: https://medium.com/policystat-product-development/why-all-jobs-interviews-should-include-doing-real-work-34b54d393939	
+[Upwork]: https://upwork.com	
+[Apply]: http://bit.ly/pstat-lead-designer-hire-2019-apply-github
+
 # Lead Product (UX/UI) Designer
 
 **REMOTE**
