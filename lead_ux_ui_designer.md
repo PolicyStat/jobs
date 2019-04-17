@@ -1,41 +1,19 @@
-# Make An Impact On Healthcare
-
-[PolicyStat]: http://www.icontracts.com/policy-management/
-[Medical Study]: https://hub.jhu.edu/2016/05/03/medical-errors-third-leading-cause-of-death
-[Named one of Inc.com's best workplaces of 2017]: https://www.inc.com/profile/policystat
-[iContracts]: http://www.icontracts.com
-[GitHub]: https://github.com/policystat
-[Stack Overflow Company page]: https://stackoverflow.com/jobs/companies/policystat
-[work sample]: https://medium.com/policystat-product-development/why-all-jobs-interviews-should-include-doing-real-work-34b54d393939
-[Upwork]: https://upwork.com
-[Apply]: http://bit.ly/pstat-lead-designer-hire-2019-apply-github
-
-[PolicyStat]'s mission is to improve healthcare delivery through better processes. We help our clients make their policies and procedures easier to find, access, and manage. Hundreds of hospitals use our SaaS application to ensure that this critical information is correct, their staff can find it, and that it supports regulatory compliance.
-
-[More than 250,000 Americans die each year as a result of medical error][Medical Study]. Many of these deaths could have been prevented with existing best practices for quality and patient safety. A hospital's best tool for standardizing and implementing these life-saving improvements are their written policies and procedures.
-
 # Lead UX/UI Designer
 
-**ON-SITE**: Indianapolis, IN
+**REMOTE**
 
-**REMOTE**: Indiana, New Jersey, and other locations
+[PolicyStat]'s mission is to improve healthcare delivery through better processes. We help our clients make their policies and procedures easier to find, access, and manage. Hundreds of hospitals use our SaaS application to ensure that this critical information is correct, their staff can find it, and that it supports regulatory compliance.
 
 Policy management. Exciting, right?
 
 Here's the thing:
-without policies,
-hospitals cannot ensure that patients are given the correct type of care,
+without policies, hospitals cannot ensure that patients are given the correct type of care,
 no matter the circumstance.
-Without policies,
-laboratories cannot ensure that their results are as accurate as possible.
-Without policies,
-companies cannot ensure that their employees are informed,
-treat others well,
-and are treated well themselves.
-At PolicyStat,
-we are working to make the management and sharing of policies as reliable,
-accountable,
-and (dare we say it?) as enjoyable as possible.
+Without policies, laboratories cannot ensure that their results are as accurate as possible.
+Without policies, companies cannot ensure that their employees are informed,
+treat others well, and are treated well themselves.
+At PolicyStat, we are working to make the management and sharing of policies as reliable,
+accountable, and (dare we say it?) as enjoyable as possible.
 
 A few things we are proud of:
 
