@@ -1,7 +1,6 @@
-[PolicyStat]: http://www.icontracts.com/policy-management/	
+	
 [Medical Study]: https://hub.jhu.edu/2016/05/03/medical-errors-third-leading-cause-of-death	
 [Named one of Inc.com's best workplaces of 2017]: https://www.inc.com/profile/policystat	
-[iContracts]: http://www.icontracts.com	
 [GitHub]: https://github.com/policystat	
 [Stack Overflow Company page]: https://stackoverflow.com/jobs/companies/policystat	
 [work sample]: https://medium.com/policystat-product-development/why-all-jobs-interviews-should-include-doing-real-work-34b54d393939	
@@ -12,7 +11,7 @@
 
 **REMOTE**
 
-[PolicyStat]'s mission is to improve healthcare delivery through better processes. We help our clients make their policies and procedures easier to find, access, and manage. Hundreds of hospitals use our SaaS application to ensure that this critical information is correct, their staff can find it, and that it supports regulatory compliance.
+PolicyStat's mission is to improve healthcare delivery through better processes. We help our clients make their policies and procedures easier to find, access, and manage. Hundreds of hospitals use our SaaS application to ensure that this critical information is correct, their staff can find it, and that it supports regulatory compliance.
 
 Policy management. Exciting, right?
 
