@@ -59,7 +59,7 @@ As a critical member of our small product team, you'll assume several roles incl
 ## Interview Process
 
 - Application review.
-- Complete a [work sample](https://medium.com/policystat-product-development/why-all-jobs-interviews-should-include-doing-real-work-34b54d393939) (< 45 minutes) in Python.
+- Complete a [work sample](https://medium.com/policystat-product-development/why-all-jobs-interviews-should-include-doing-real-work-34b54d393939) (< 60 minutes) in Python.
 - Phone or video conversation with the team lead (< 30 minutes).
 - Complete a work sample (< 3 hours) in Python + Django.
 - Culture conversation with team members (on-site, if possible, otherwise remote video conference).
