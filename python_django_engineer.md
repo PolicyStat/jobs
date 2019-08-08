@@ -50,7 +50,7 @@ As a critical member of our small product team, you'll assume several roles incl
 # About PolicyStat
 
 - Founded in 2006, acquired by [iContracts](http://www.icontracts.com/) in 2017
-- Technology stack: Python 2.7 (help us upgrade to Python 3), Django, AWS (RDS, EC2, S3), Ubuntu Linux, MySQL, GraphQL, React (work in progress)
+- Technology stack: Python 3.7, Django 2.2, AWS (RDS, EC2, S3), Ubuntu Linux, MySQL, GraphQL, React (work in progress)
 - Toolkit: Git, Vagrant, VirtualBox, Trello, [GitHub](https://github.com/policystat), Jenkins, continuous delivery / daily deploys (700+ in 2018), fast iterations
 - See our [Stack Overflow Company](https://stackoverflow.com/jobs/companies/policystat) page
 
