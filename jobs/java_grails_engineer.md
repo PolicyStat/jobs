@@ -49,7 +49,7 @@ As a critical member of our small product team, you'll assume several roles incl
 - Phone or video conversation with the team lead (< 30 minutes).
 - Culture conversation with team members (on-site, if possible, otherwise remote video conference).
 
-[See more details](interview_process.md)
+[See more details](../interview_process.md)
 
 ## Remote Locations
 
@@ -62,5 +62,3 @@ If you have not already created a company
 you will either need to create one,
   or alternatively we can hire you through a service such as
 [Upwork](https://upwork.com).
-
-[Click here to apply (Google Form)](http://bit.ly/pstat-java-grails-hire-2019-apply-github)

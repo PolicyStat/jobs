@@ -1,4 +1,3 @@
-	
 [Medical Study]: https://hub.jhu.edu/2016/05/03/medical-errors-third-leading-cause-of-death	
 [Named one of Inc.com's best workplaces of 2017]: https://www.inc.com/profile/policystat	
 [GitHub]: https://github.com/policystat	
@@ -82,7 +81,7 @@ PolicyStat is a committed equal opportunity employer.
 
 - [Named one of Inc.com's best workplaces of 2017]
 - Founded in 2006, acquired by [iContracts] in 2017
-- Technology stack: Python 2.7, Django, AWS (RDS, EC2, S3), Ubuntu Linux, MySQL, GraphQL, React (work in progress)
+- Technology stack: Python 3.7, Django, AWS (RDS, EC2, S3), Ubuntu Linux, MySQL, GraphQL, React (work in progress)
 - Toolkit: Sketch, Invision, Zeplin, Storybook, Adobe CC, Git, Vagrant, Trello, [GitHub]
 - See our [Stack Overflow Company page]
 
@@ -110,5 +109,3 @@ If you have not already created a company
 you will either need to create one,
 or alternatively we can hire you through a service such as
 [Upwork].
-
-[Click here to apply (Google Form)][Apply]
