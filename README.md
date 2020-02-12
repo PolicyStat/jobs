@@ -18,7 +18,7 @@
 # Remote Locations
 
 We can hire individuals for full time employment who reside in
-California, Texas, Massachusetts, South Carolina, Florida, Pennsylvania, Illinois, Idaho, Indiana, Kentucky, Michigan, Missouri, New Jersey, New Mexico, Washington or some parts of Canada
+California, Texas, Massachusetts, South Carolina, Florida, Pennsylvania, Illinois, Idaho, Indiana, Kentucky, Michigan, Missouri, New Jersey, New Mexico, Washington or some parts of Canada.
 **If you reside in some other location, we can only pay you through a company**.
 If you have not already created a company
 (one that is responsible for taxes and can legally receive payments),
