@@ -60,7 +60,7 @@ As a critical member of our small product team, you will help us to update Polic
 - Complete a work sample project (< 3 hours) in React.
 - Culture conversation with team members (on-site, if possible, otherwise remote video conference).
 
-[See more details](interview_process.md)
+[See more details](../interview_process.md)
 
 ## Remote Locations
 
@@ -73,5 +73,3 @@ If you have not already created a company
 you will either need to create one,
   or alternatively we can hire you through a service such as
 [Upwork](https://upwork.com).
-
-[Click here to apply (Google Form)](http://bit.ly/pstat-react-hire-2019-apply-github)

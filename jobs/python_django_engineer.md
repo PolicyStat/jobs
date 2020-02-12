@@ -64,7 +64,7 @@ As a critical member of our small product team, you'll assume several roles incl
 - Complete a work sample (< 3 hours) in Python + Django.
 - Culture conversation with team members (on-site, if possible, otherwise remote video conference).
 
-[See more details](interview_process.md)
+[See more details](../interview_process.md)
 
 ## Remote Locations
 
