@@ -1,16 +1,16 @@
 # Make An Impact On Healthcare
 
-[PolicyStat's](http://www.icontracts.com/policy-management/) mission is to improve healthcare delivery through better processes. We help our clients make their policies and procedures easier to find, access, and manage. Hundreds of hospitals use our SaaS application to ensure that this critical information is correct, their staff can find it, and that it supports regulatory compliance.
+[PolicyStat's](https://rldatix.com/en-us/products/policy-management) mission is to improve healthcare delivery through better processes. We help our clients make their policies and procedures easier to find, access, and manage. Hundreds of hospitals use our SaaS application to ensure that this critical information is correct, their staff can find it, and that it supports regulatory compliance.
 
 [More than 250,000 Americans die each year as a result of medical error](https://hub.jhu.edu/2016/05/03/medical-errors-third-leading-cause-of-death/). Many of these deaths could have been prevented with existing best practices for quality and patient safety. A hospital's best tool for standardizing and implementing these life-saving improvements are their written policies and procedures.
 
 # Open Positions
 
-* [Python + Django Engineer](python_django_engineer.md)
+* [Python + Django Engineer](jobs/python_django_engineer.md)
 
 # About PolicyStat
 
-- Founded in 2006, [acquired](https://techpoint.org/2017/05/policystat-acquired-icontracts/) by [iContracts](http://www.icontracts.com/) in 2017, [acquired](https://www.prnewswire.com/news-releases/rldatix-to-acquire-icontracts-300848612.html) by [RLDatix](https://www.rldatix.com) in 2019.
+- Founded in 2006, [acquired](https://www.prnewswire.com/news-releases/rldatix-to-acquire-icontracts-300848612.html) by [RLDatix](https://www.rldatix.com) in 2019.
 - Technology stack: Python 3.7, Django 2.2, AWS (RDS, EC2, S3), Ubuntu Linux, MySQL, GraphQL, React (work in progress)
 - Toolkit: Git, Vagrant, VirtualBox, Trello, [GitHub](https://github.com/policystat), Jenkins, continuous delivery / daily deploys (700+ in 2018), fast iterations
 - See our [Stack Overflow Company](https://stackoverflow.com/jobs/companies/policystat) page
