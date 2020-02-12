@@ -69,9 +69,8 @@ As a critical member of our small product team, you'll assume several roles incl
 ## Remote Locations
 
 We can hire individuals for full time employment who reside in
-Indiana, New Jersey, New Mexico, Idaho, Michigan, Florida, or some parts of Canada.
-**If you reside in some other location, we can only pay you through a
-company**.
+California, Texas, Massachusetts, South Carolina, Florida, Pennsylvania, Illinois, Idaho, Indiana, Kentucky, Michigan, Missouri, New Jersey, New Mexico, Washington or some parts of Canada
+**If you reside in some other location, we can only pay you through a company**.
 If you have not already created a company
 (one that is responsible for taxes and can legally receive payments),
 you will either need to create one,
