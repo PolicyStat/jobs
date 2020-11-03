@@ -1,8 +1,36 @@
 # Make An Impact On Healthcare
 
-[PolicyStat's](https://rldatix.com/en-us/products/policy-management) mission is to improve healthcare delivery through better processes. We help our clients make their policies and procedures easier to find, access, and manage. Hundreds of hospitals use our SaaS application to ensure that this critical information is correct, their staff can find it, and that it supports regulatory compliance.
+[RLDatix](https://www.rldatix.com) is on a mission to change healthcare.
+We help organizations drive safer, more efficient care by providing
+governance, risk and compliance tools that drive overall improvement and
+safety.
+Our suite of cloud-based software helps organizations reduce healthcare-acquired
+infections, report on adverse events, and ensure patient safety
+learnings are deployed effectively and immediately through dynamic
+policy and procedure management. 
 
-[More than 250,000 Americans die each year as a result of medical error](https://hub.jhu.edu/2016/05/03/medical-errors-third-leading-cause-of-death/). Many of these deaths could have been prevented with existing best practices for quality and patient safety. A hospital's best tool for standardizing and implementing these life-saving improvements are their written policies and procedures.
+RLDatix is truly global, with offices in London, Toronto, Chicago,
+Fairfax, Melbourne, Adelaide, Riyadh and San Jose, allowing us to be at
+the forefront of global patient safety and GRC movement.
+We envision a world where patients have access to the best and safest
+care possible and our team is made up of people who truly believe in
+what we do.
+We’re always looking for people who are passionate about making a
+positive change in healthcare to join our team.
+
+[PolicyStat's](https://rldatix.com/en-us/products/policy-management)
+mission is to improve healthcare delivery through better processes. We
+help our clients make their policies and procedures easier to find,
+access, and manage. Hundreds of hospitals use our SaaS application to
+ensure that this critical information is correct, their staff can find
+it, and that it supports regulatory compliance.
+
+[More than 250,000 Americans die each year as a result of medical
+error](https://hub.jhu.edu/2016/05/03/medical-errors-third-leading-cause-of-death/).
+Many of these deaths could have been prevented with existing best
+practices for quality and patient safety. A hospital's best tool for
+standardizing and implementing these life-saving improvements are their
+written policies and procedures.
 
 # Open Positions
 
@@ -10,26 +38,11 @@
 
 # About PolicyStat
 
-- Founded in 2006, [acquired](https://www.prnewswire.com/news-releases/rldatix-to-acquire-icontracts-300848612.html) by [RLDatix](https://www.rldatix.com) in 2019.
+- Founded in 2006, [acquired](https://www.prnewswire.com/news-releases/rldatix-to-acquire-icontracts-300848612.html) by RLDatix in 2019.
 - Technology stack: Python 3.7, Django 2.2, AWS (RDS, EC2, S3), Ubuntu Linux, MySQL, GraphQL, React (work in progress)
-- Toolkit: Git, Vagrant, VirtualBox, Trello, [GitHub](https://github.com/policystat), Jenkins, continuous delivery / daily deploys (1000 in 2019), fast iterations
-- See our [Stack Overflow Company](https://stackoverflow.com/jobs/companies/policystat) page
-
-# Remote Locations
-
-We can hire individuals for full time employment who reside in
-California, Texas, Massachusetts, South Carolina, Florida, Pennsylvania, Illinois, Idaho, Indiana, Kentucky, Michigan, Missouri, New Jersey, New Mexico, Washington or some parts of Canada.
-**If you reside in some other location, we can only pay you through a company**.
-If you have not already created a company
-(one that is responsible for taxes and can legally receive payments),
-you will either need to create one,
-  or alternatively we can hire you through a service such as
-[Upwork](https://upwork.com).
+- Toolkit: Git, Vagrant, VirtualBox, Trello, [GitHub](https://github.com/policystat), Jenkins, continuous delivery / daily deploys (1000 in 2019), fast iteration
 
 # Interview Process Overview
-
-Depending on the position you are applying for,
-the interview process may be slightly different.
 
 * You apply
 * Your application is reviewed
