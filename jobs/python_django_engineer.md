@@ -57,7 +57,6 @@ As a critical member of our small product team, you'll assume several roles incl
 - Founded in 2006, [acquired](https://www.prnewswire.com/news-releases/rldatix-to-acquire-icontracts-300848612.html) by [RLDatix](https://www.rldatix.com) in 2019.
 - Technology stack: Python 3.7, Django 2.2, AWS (RDS, EC2, S3), Ubuntu Linux, MySQL, GraphQL, React (work in progress)
 - Toolkit: Git, Vagrant, VirtualBox, Trello, [GitHub](https://github.com/PolicyStat), Jenkins, continuous delivery / daily deploys (1000 in 2019), fast iterations
-- See our [Stack Overflow Company](https://stackoverflow.com/jobs/companies/policystat) page
 
 # Apply
 
