@@ -18,12 +18,7 @@ what we do.
 We’re always looking for people who are passionate about making a
 positive change in healthcare to join our team.
 
-[PolicyStat's](https://rldatix.com/en-us/products/policy-management)
-mission is to improve healthcare delivery through better processes. We
-help our clients make their policies and procedures easier to find,
-access, and manage. Hundreds of hospitals use our SaaS application to
-ensure that this critical information is correct, their staff can find
-it, and that it supports regulatory compliance.
+Our [PolicyStat](https://rldatix.com/en-us/products/policy-management) team helps our clients make their policies and procedures easier to find, access, and manage. Hundreds of hospitals use our SaaS application to ensure that this critical information is correct, their staff can find it, and that it supports regulatory compliance. Ideally the position is based in our Carmel, IN office but we are open to remote as well. 
 
 [More than 250,000 Americans die each year as a result of medical
 error](https://hub.jhu.edu/2016/05/03/medical-errors-third-leading-cause-of-death/).
