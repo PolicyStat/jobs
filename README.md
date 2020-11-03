@@ -48,3 +48,5 @@ written policies and procedures.
 * You have a on-site (or remote) culture conversation with the team + face to face interviews.
 
 [See more details](interview_process.md)
+
+RLDatix offers a competitive compensation package and comprehensive benefits package including health, dental, vision, life, disability coverage, a generous retirement savings plan, paid time off, and paid holidays. RLDatix is an equal opportunity employer and our employment decisions are made without regard to race, color, religion, age, gender, national origin, disability, handicap, marital status or any other status or condition protected by Federal and/or State laws.
