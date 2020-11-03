@@ -1,14 +1,28 @@
 # Make An Impact On Healthcare
 
-[PolicyStat's](https://rldatix.com/en-us/products/policy-management) mission is to improve healthcare delivery through better processes. We help our clients make their policies and procedures easier to find, access, and manage. Hundreds of hospitals use our SaaS application to ensure that this critical information is correct, their staff can find it, and that it supports regulatory compliance.
+[RLDatix](https://www.rldatix.com) is on a mission to change healthcare.
+We help organizations drive safer, more efficient care by providing
+governance, risk and compliance tools that drive overall improvement and
+safety.
+Our suite of cloud-based software helps organizations reduce healthcare-acquired
+infections, report on adverse events, and ensure patient safety
+learnings are deployed effectively and immediately through dynamic
+policy and procedure management. 
 
-[More than 250,000 Americans die each year as a result of medical error](https://hub.jhu.edu/2016/05/03/medical-errors-third-leading-cause-of-death/). Many of these deaths could have been prevented with existing best practices for quality and patient safety. A hospital's best tool for standardizing and implementing these life-saving improvements are their written policies and procedures.
+RLDatix is truly global, with offices in London, Toronto, Chicago,
+Fairfax, Melbourne, Adelaide, Riyadh and San Jose, allowing us to be at
+the forefront of global patient safety and GRC movement.
+We envision a world where patients have access to the best and safest
+care possible and our team is made up of people who truly believe in
+what we do.
+We’re always looking for people who are passionate about making a
+positive change in healthcare to join our team.
+
+Our [PolicyStat](https://rldatix.com/en-us/products/policy-management) team helps our clients make their policies and procedures easier to find, access, and manage. Hundreds of hospitals use our SaaS application to ensure that this critical information is correct, their staff can find it, and that it supports regulatory compliance. 
 
 # Python + Django Software Engineer
 
-**ON-SITE**: Indianapolis, IN or Toronto, Canada
-
-**REMOTE**: Indiana, New Jersey, and other locations
+This is a full time, **remote** position available to citizens that reside within the United States of America.
 
 As a critical member of our small product team, you'll assume several roles including back-end and front-end development, on-call support, API design, architecture, operations and database engineering.
 
@@ -38,15 +52,6 @@ As a critical member of our small product team, you'll assume several roles incl
 - Demonstrated proficiency with React, GraphQL, MySQL, IPSec, SAML.
 - A GitHub profile with lots of code and experience contributing to open source projects.
 
-## Compensation and Benefits
-
-- Market-based salary from $80k to $110k+ USD
-- Health (including telemedicine) with HSA, dental, vision, disability, and life insurance
-- 10 paid holidays
-- PTO: 15 days each year to start; 20 days starting the calendar year of third anniversary
-- Annual paid team trip to engineering conference (Djangocon, pycon, etc)
-- (on-site) Weekly catered team lunches
-
 # About PolicyStat
 
 - Founded in 2006, [acquired](https://www.prnewswire.com/news-releases/rldatix-to-acquire-icontracts-300848612.html) by [RLDatix](https://www.rldatix.com) in 2019.
@@ -55,6 +60,8 @@ As a critical member of our small product team, you'll assume several roles incl
 - See our [Stack Overflow Company](https://stackoverflow.com/jobs/companies/policystat) page
 
 # Apply
+
+[Click here to apply (Google Form)](https://bit.ly/327K4ma)
 
 ## Interview Process
 
@@ -66,15 +73,4 @@ As a critical member of our small product team, you'll assume several roles incl
 
 [See more details](../interview_process.md)
 
-## Remote Locations
-
-We can hire individuals for full time employment who reside in
-California, Texas, Massachusetts, South Carolina, Florida, Pennsylvania, Illinois, Idaho, Indiana, Kentucky, Michigan, Missouri, New Jersey, New Mexico, Washington or some parts of Canada.
-**If you reside in some other location, we can only pay you through a company**.
-If you have not already created a company
-(one that is responsible for taxes and can legally receive payments),
-you will either need to create one,
-  or alternatively we can hire you through a service such as
-[Upwork](https://upwork.com).
-
-[Click here to apply (Google Form)](http://bit.ly/pstat-jobs-python-django-engineer-2020-apply)
+RLDatix offers a competitive compensation package and comprehensive benefits package including health, dental, vision, life, disability coverage, a generous retirement savings plan, paid time off, and paid holidays. RLDatix is an equal opportunity employer and our employment decisions are made without regard to race, color, religion, age, gender, national origin, disability, handicap, marital status or any other status or condition protected by Federal and/or State laws. 
