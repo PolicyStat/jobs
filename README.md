@@ -29,8 +29,6 @@ written policies and procedures.
 
 # Open Positions
 
-* [Python + Django Engineer](jobs/python_django_engineer.md)
-
 # About PolicyStat
 
 - Founded in 2006, [acquired](https://www.prnewswire.com/news-releases/rldatix-to-acquire-icontracts-300848612.html) by RLDatix in 2019.
